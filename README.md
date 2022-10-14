@@ -5,7 +5,7 @@
 - 👩‍💻 You can view my work in this repository and my portfolio: www.marsgotta.com
 - 📫 How to reach me: me@marsgotta.com
 ----
-### My social media
+### Connect with me
 [Twitter](https://twitter.com/imarsgotta) | [Instagram](https://www.instagram.com/imarsgotta/) | [LinkedIn](https://www.linkedin.com/in/marcelagotta/)
 
 <!--
