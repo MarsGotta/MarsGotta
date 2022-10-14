@@ -6,9 +6,7 @@
 - 📫 How to reach me: me@marsgotta.com
 ----
 ### My social media
-- [Twitter](https://twitter.com/imarsgotta)
-- [Instagram](https://www.instagram.com/imarsgotta/)
-- [LinkedIn](https://www.linkedin.com/in/marcelagotta/)
+[Twitter](https://twitter.com/imarsgotta) | [Instagram](https://www.instagram.com/imarsgotta/) | [LinkedIn](https://www.linkedin.com/in/marcelagotta/)
 
 <!--
 **MarsGotta/marsgotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
