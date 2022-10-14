@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! 👋 I'm Marcela Gotta but you can call me Mars :)
+- 💪🏻 I'm Lead Frontend Developer
+- 🔭 I’m currently working on @Sngular
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: me@marsgotta.com
 
 <!--
 **MarsGotta/marsgotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
