@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Marcela Gotta but you can tell me Mars :)
+### Hi! 👋 I'm Marcela Gotta but you can call me Mars :)
 - 💪🏻 I'm Lead Frontend Developer
 - 🔭 I’m currently working on @Sngular
 - 🌱 I’m currently learning: Data Science with Python and Backend with Python & Node ❤️
