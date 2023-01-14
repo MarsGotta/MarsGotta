@@ -1,6 +1,7 @@
 ### Hi! 👋 I'm Marcela Gotta but you can call me Mars :)
 - 💪🏻 I'm Lead Frontend Developer
 - 🔭 I’m currently working on @Sngular
+- 🚀 I'm InMars Founder
 - 🌱 I’m currently learning: Data Science with Python and Backend with Python & Node ❤️
 - 👩‍💻 You can view my work in this repository and my portfolio: www.marsgotta.com
 - 📫 How to reach me: me@marsgotta.com
